@@ -4,3 +4,6 @@
 - [x] [OAR包编译流程](DataPlane/编译oar包.md)
 - [x] [数据面启动流程](DataPlane/数据面启动流程.md)
 - [x] [编译单个域内使用的OAR包](DataPlane/编译单个域内使用的oar包.md)
+
+记录：
+- [x] [编译其它onos版本的oar包](Dev/编译其它onos版本的oar包.md)
