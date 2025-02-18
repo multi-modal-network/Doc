@@ -16,6 +16,6 @@ nano pom.xml
 ```
 然后重新编译，在basic-multi-modal目录下输入
 ```
-make pipeconf
+sudo make pipeconf
 ```
 编译结果在basic-multi-modal/target目录下。
